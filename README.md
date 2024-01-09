@@ -1,0 +1,1 @@
+we released paper "SINGER: Write Masterpieces Like Su Shi, Alexandre Dumas père or Ernest Hemingway - LLM can Climb to the Peak of Literature and Art"
